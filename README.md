@@ -69,3 +69,16 @@ Microsoft Excel | Data Analysis | Business Intelligence | Data Visualization | K
 **Author:** Neeraj Kumar
 
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/moogi-neeraj-kumar-827b28296/)
+## Dashboard Preview
+
+### Sales & Profitability Dashboard
+
+![Dashboard](Dashboard.png)
+
+### Analytical Insights
+
+![Analysis](Analyse.png)
+
+## Conclusion
+
+This project demonstrates practical skills in Microsoft Excel, data analysis, KPI reporting, data visualization, and business intelligence.
